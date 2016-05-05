@@ -1,0 +1,31 @@
+/*Inserta tu Codigo Responsive*/
+.form-login-heading{
+background-color: #64D2DE;
+color:white;
+text-align: center;
+font-size:180%;
+}
+
+#login-page{
+	background-color: #DAD8E0;
+	
+	
+}
+
+.form-login{
+
+background-color: white;
+width: 50%;
+height:100%;
+border-radius: 3%;
+
+padding: 5%;
+}
+
+.modal-backdrop{
+	left: 30%;
+}
+.registration{
+	text-align: center;
+	padding:5%;
+}

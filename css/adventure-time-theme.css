@@ -1,0 +1,91 @@
+/*No tocar este codigo*/ 
+.sidebar-closed > #sidebar > ul {
+    display: none;
+}
+
+.sidebar-closed #main-content {
+    margin-left: 0px;
+}
+
+.sidebar-closed #sidebar {
+margin-left: -180px;
+}
+
+/*Escribe aqui tu codigo */
+
+
+/* CSS página login */
+.form-login-heading{
+background-color: #64D2DE;
+color:white;
+text-align: center;
+font-size:180%;
+border-top:20px solid #64D2DE;
+border-bottom:20px solid #64D2DE;
+border-top-right-radius: 3%;
+border-top-left-radius: 3%;
+}
+
+#login-page{
+background-color: #DAD8E0;	
+}
+
+.form-login{
+background-color: white;
+width: 35%;
+border-radius: 3%;
+padding: 4%;
+}
+.modal-backdrop{
+	left: 30%;
+}
+.registration{
+	text-align: center;
+	padding:5%;
+}
+
+/* CSS página dashboard */
+
+.sidebar-toggle-box{
+background-color:#323756;
+	color:white;
+	padding:1%;
+	display: inline-block;
+}
+.hidden-xs{
+	
+
+
+}
+
+.header.header.black-bg{
+	border-bottom: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
